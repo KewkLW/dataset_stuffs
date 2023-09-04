@@ -6,5 +6,5 @@ https://arxiv.org/abs/2307.01952<br>
 # Useage
 Change main(r'c:\datasets\or\some\shit') to your image directory run the script and it will output the json to the same directory as the script. 
 
-## Upscaller
+## Upscaler
 Just a basic upscale using PIL. This looks at the json that was generated and does allt he upscale/downscale/cropping. 
