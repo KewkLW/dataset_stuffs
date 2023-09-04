@@ -1,4 +1,4 @@
-# Web Scraping using Puppeteer
+# Convert site to a text file
 
 This repository contains a script for web scraping using Puppeteer, a Node library that provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
 
