@@ -7,7 +7,7 @@ const fs = require('fs');
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  const url = 'https://replicate.com/docs/guides/fine-tune-a-language-model';  // Replace with the URL you want to scrape
+  const url = 'https://example.com';  // Replace with the URL you want to scrape
   const output_file = 'output.txt';  // Name of the text file to save the content
 
   console.log(`Navigating to ${url}...`);
